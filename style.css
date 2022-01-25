@@ -60,6 +60,14 @@ a {
 	max-width: 550px;
 }
 
+.x {
+	height: 1000px;
+	
+	margin-right: 10px;
+	margin-bottom: 10px;
+	max-width: 1000px;
+}
+
 img {
 	height: 100%;
 	width: 100%;
@@ -121,4 +129,9 @@ h1 {
 
 p {
 	margin-bottom: 10px;
+}
+
+
+.parent {
+	display: flex;
 }
